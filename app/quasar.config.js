@@ -99,7 +99,6 @@ module.exports = configure(function (/* ctx */) {
       },
       // Make sure the server is accessible over the local network
       host: '0.0.0.0',
-      // https: true,
       open: true // opens browser window automatically
     },
 
